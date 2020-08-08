@@ -83,7 +83,7 @@ jQuery(document).ready(function($) {
 
 // Google Site Search | Search box
 (function() {
- var cx = '012777421281883581498:r3xp4rmwevw';
+ var cx = '001850816389951808298:x_p28qnqfk4';
  var gcse = document.createElement('script');
  gcse.type = 'text/javascript';
  gcse.async = true;
